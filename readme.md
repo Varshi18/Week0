@@ -31,6 +31,7 @@ This repository documents my progress in the **SoC Tapeout Program by VSD**. The
 ### Tools Installed
 
 #### Yosys (Logic Synthesis)
+<img width="803" height="728" alt="Screenshot From 2025-09-20 14-12-30" src="https://github.com/user-attachments/assets/023f9d0f-7392-41bc-9eca-7f10ceb82aaa" />
 
 ```bash
 sudo apt-get update
@@ -47,6 +48,7 @@ sudo make install
 ```
 
 #### Icarus Verilog (Simulation)
+<img width="803" height="685" alt="Screenshot From 2025-09-20 14-15-59" src="https://github.com/user-attachments/assets/83183351-9424-48b4-844d-dd43caa17ffe" />
 
 ```bash
 sudo apt-get update
@@ -54,6 +56,7 @@ sudo apt-get install iverilog
 ```
 
 #### GTKWave (Waveform Viewer)
+<img width="442" height="81" alt="Screenshot From 2025-09-20 14-16-41" src="https://github.com/user-attachments/assets/ccdb5c02-15c4-4e41-b39a-aeaafd90a842" />
 
 ```bash
 sudo apt-get update
@@ -61,6 +64,7 @@ sudo apt-get install gtkwave
 ```
 
 #### Ngspice (Analog Simulation)
+<img width="801" height="276" alt="Screenshot From 2025-09-20 14-17-10" src="https://github.com/user-attachments/assets/7d2cf13c-8361-477d-a615-36d691838fec" />
 
 ```bash
 tar -zxvf ngspice-37.tar.gz
@@ -72,6 +76,7 @@ sudo make install
 ```
 
 #### Magic (Layout Tool)
+<img width="1861" height="914" alt="Screenshot From 2025-09-20 14-18-36" src="https://github.com/user-attachments/assets/f82d0ef7-94c0-4b9e-93f2-f233787511f3" />
 
 ```bash
 sudo apt-get install m4 tcsh csh libx11-dev tcl-dev tk-dev \
@@ -84,6 +89,7 @@ sudo make install
 ```
 
 #### OpenLANE (Digital Flow)
+<img width="1861" height="182" alt="Screenshot From 2025-09-20 14-32-14" src="https://github.com/user-attachments/assets/4ab92e01-cf1e-40c0-a8ab-4f0c8506842b" />
 
 ```bash
 sudo apt-get update && sudo apt-get upgrade
@@ -130,3 +136,4 @@ Thanks to **Kunal Ghosh** and the **VSD team** for leading this program, and to 
 * [VSD Program Website](https://vsdiat.vlsisystemdesign.com/)
 * [RISC-V International](https://riscv.org/)
 * [Efabless Platform](https://efabless.com/)
+
